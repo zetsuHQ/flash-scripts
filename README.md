@@ -1,6 +1,6 @@
 # flash-scripts
 
-My functional and poorly-writed scripts.
+My functional and poorly-written scripts.
 
 ---
 
